@@ -1,6 +1,7 @@
 🔴 Public Release Statement — HyperSecurity Offensive Labs.          ___________________
 ________________________/
 HyperSecurity Offensive Labs officially introduces its custom Rust-based offensive security tools to the public domain.
+HyperSecurity Offensive Labs builds upon the legacy of early offensive toolchains, aiming to change how modern security groups and teams approach research and testing.
 This release represents a shift in tooling philosophy — away from exposed internals and copy-paste frameworks, toward controlled, high-performance, research-grade binaries.
 The tools are publicly accessible, but the source code will remain private.
 This decision is intentional.
