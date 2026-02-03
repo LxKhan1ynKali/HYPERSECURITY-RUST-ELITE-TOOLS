@@ -8,6 +8,7 @@ This decision is intentional.
 
 
 🔒 Why No Source Code?
+Read_License HSRBL
 The absence of public src/ is not secrecy — it is defensive responsibility.
 Prevents misuse and uncontrolled weaponization
 Reduces defender-side signature abuse
